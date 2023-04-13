@@ -6,12 +6,9 @@
                 <div class="flex justify-start w-full">
 
                     <div class="relative -mt-4 -ml-2">
-
-
-
                         <div class="w-12 h-12 object-cover rounded-full border-2    bg-gray-800 border-gray-700">
                             <i class="ml-3.5 mt-5 fa-regular fa-file-lines fa-lg"></i>
-                        </div> 
+                        </div>
 
                     </div>
                 </div>

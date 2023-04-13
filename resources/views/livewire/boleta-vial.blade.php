@@ -12,8 +12,7 @@
                 </div>
             </div>
             <div class="  text-center -mt-6">
-                <h1
-                    class=" bg-gradient-to-tr from-gray-600 to-gray-200 bg-clip-text font-sans text-3xl font-semibold leading-tight tracking-normal text-transparent antialiased mb-4">
+                <h1  class=" bg-gradient-to-tr from-gray-600 to-gray-200 bg-clip-text font-sans text-3xl font-semibold leading-tight tracking-normal text-transparent antialiased mb-4">
                     Boleta</h1>
             </div>
             @if ($message)

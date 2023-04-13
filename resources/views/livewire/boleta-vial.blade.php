@@ -17,7 +17,6 @@
                     Boleta</h1>
             </div>
             @if ($message)
-
                 <script>
                     Swal.fire({
                             title: 'Título de la alerta',

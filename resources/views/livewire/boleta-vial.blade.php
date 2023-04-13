@@ -16,7 +16,6 @@
                     class=" bg-gradient-to-tr from-gray-600 to-gray-200 bg-clip-text font-sans text-3xl font-semibold leading-tight tracking-normal text-transparent antialiased mb-4">
                     Boleta</h1>
             </div>
-
             @if ($message)
 
                 <script>
